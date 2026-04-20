@@ -1,6 +1,6 @@
 # Tetris Game
 
-This repository contains a very old Tetris engine implemented in Python using the `tkinter` library. It was created as a personal project to explore object-oriented programming (OOP) and GUIhistorical development in Python. This is here just for historical evidence and as a memento to my future self.
+This repository contains a very old Tetris engine implemented in Python using the `tkinter` library. It was created as a personal project to explore object-oriented programming (OOP) and UI development in Python. This is here just for historical evidence and as a memento to my future self.
 
 ## Features
 - Core Tetris gameplay mechanics.
